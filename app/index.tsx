@@ -21,7 +21,7 @@ const Page = () => {
         >{`Ready to change \nthe way you \nmoney?`}</Text>
         <View style={styles.buttonWrap}>
           <TouchableOpacity style={[styles.button,{backgroundColor:Colors.dark}]}>
-            <Text style={[styles.buttonText,{color:Colors.background}]}>Log in</Text>
+            <Text style={[styles.buttonText,{color:Colors.background}]}>Sign in</Text>
           </TouchableOpacity>
           <TouchableOpacity style={styles.button}>
             <Text style={styles.buttonText}>Sign up</Text>
